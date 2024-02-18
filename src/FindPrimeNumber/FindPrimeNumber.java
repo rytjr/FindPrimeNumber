@@ -5,7 +5,7 @@ import java.io.*;
 
 /*M이상 N이하의 소수를 모두 출력하는 프로그램을 작성하시오.*/
 // 에라토스테네스의 체(Sieve of Eratosthenes)라는 소수를 구하는 알고리즘을 사용하여 시간초과를 피할 수 있었다.
-
+ 
 public class FindPrimeNumber {
 	public static void main(String[] args) throws IOException {
 		
